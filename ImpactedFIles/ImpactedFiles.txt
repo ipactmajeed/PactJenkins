@@ -1,0 +1,46 @@
+
+
+
+
+
+M	PactRevenUWebapi2.0/PactRevenUWebapi2.0/Controllers/ReportController.cs
+M	PactRevenUWebapi2.0/PactRevenUWebapi2.0/Web.config
+M	RevenUWeb/src/app/admin/AddRoles/AddRolesViewModel.ts
+M	RevenUWeb/src/app/admin/AddUsers/AddUsersViewModel.ts
+M	RevenUWeb/src/app/admin/role-data/role-data.component.ts
+M	RevenUWeb/src/app/common/addeditcurrency/AddCurrencyViewModel.ts
+M	RevenUWeb/src/app/common/costcenter/DeleteCostCenterViewModel.ts
+M	RevenUWeb/src/app/common/image-editor/image-editor.component.ts
+M	RevenUWeb/src/app/common/tree-view-page/tree-view-page.component.ts
+M	RevenUWeb/src/app/crm/add-edit-lead/AddEditLeads.ts
+M	RevenUWeb/src/app/crm/master-tabs/products/LeadsProductViewModel.ts
+M	RevenUWeb/src/app/document/add-edit-document/AddEditDocumentViewModel.ts
+M	RevenUWeb/src/app/document/add-edit-document/VoucherGenerator.ts
+M	RevenUWeb/src/app/document/bill-wise/BillWiseViewModel.ts
+M	RevenUWeb/src/app/document/copy-document/CopyDocumentViewModel.ts
+M	RevenUWeb/src/app/facility-management/Tenant/TenantDashboard.component.ts
+M	RevenUWeb/src/app/facility-management/Tickets/ServiceRequestDetails.component.html
+M	RevenUWeb/src/app/facility-management/Tickets/ServiceRequestDetails.component.ts
+M	RevenUWeb/src/app/facility-management/aboutus/AboutUs.component.ts
+M	RevenUWeb/src/app/inventory/master-tabs/add-price-chart/AddPriceChartNewViewModel.ts
+M	RevenUWeb/src/app/inventory/master-tabs/add-tax-chart/AddTaxChartNewViewModel.ts
+M	RevenUWeb/src/app/inventory/master-tabs/tax-filter/tax-filter.component.ts
+M	RevenUWeb/src/app/pages/home/RibbonExtViewModel.ts
+M	RevenUWeb/src/app/pages/home/forgot-password/forgot-password.component.ts
+M	RevenUWeb/src/app/pages/login-screen/LoginScreenViewModel.ts
+M	RevenUWeb/src/app/pages/settings/settings-screen.component.ts
+M	RevenUWeb/src/app/property/Tenant/AddEditTenantViewModel.ts
+M	RevenUWeb/src/app/reports/StaticReports/ACC_TradingReports.ts
+M	RevenUWeb/src/app/reports/models/PostDataField.ts
+M	RevenUWeb/src/app/reports/report-view/ReportViewModel.ts
+M	RevenUWeb/src/app/services/api/admin.service.ts
+M	RevenUWeb/src/app/services/api/common.service.ts
+M	RevenUWeb/src/app/services/api/reports.service.ts
+M	RevenUWeb/src/app/services/session-manager.service.ts
+M	RevenUWeb/src/app/shared/controls/Editors/DataGridComboBoxColumneditor.ts
+M	RevenUWeb/src/app/shared/controls/data-widget/data-widget.component.ts
+M	RevenUWeb/src/app/shared/controls/master-tabs/activity/ActivitiesViewModel.ts
+M	RevenUWeb/src/app/shared/models/ControlGenerator.ts
+M	RevenUWeb/src/app/shared/models/Util.ts
+M	RevenUWeb/src/app/shared/models/controls/PactGridViewModel.ts
+M	RevenUWeb/src/app/shared/models/master-tabs/AddAttachmentViewModel.ts
